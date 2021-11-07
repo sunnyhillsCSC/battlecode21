@@ -1,4 +1,6 @@
 # battlecode21
+## About this Repo
+* This is our workspace for preparing for the 2022 MIT Battlecode competition by developing a bot for the past 2021 competition. 
 ## Resources
 ### Installation and Getting Started
 * Installation: https://2021.battlecode.org/getting-started
