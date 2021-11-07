@@ -10,5 +10,5 @@
 * Viper post mortem: https://serpentine.ai/wp-content/uploads/2021/05/battlecode_2021_viper_paper.pdf
 * Active Programming post mortem: https://activeprogrammerhq.com/spent-120-hours-coding-in-january-2021-didnt-get-paid-for-it-as-a-developer/
 * Baby duck post mortem: http://web.mit.edu/agrebe/www/battlecode/21/index.html
-* wololo post mortem: 
+* wololo post mortem: https://github.com/sunnyhillsCSC/battlecode21/blob/main/postmortems/wololo-post-mortem.pdf
 * Ivy Zheng post mortem: https://ivyzhang.me/bc21-postmortem
