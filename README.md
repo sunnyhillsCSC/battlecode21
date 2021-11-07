@@ -11,3 +11,4 @@
 * Active Programming post mortem: https://activeprogrammerhq.com/spent-120-hours-coding-in-january-2021-didnt-get-paid-for-it-as-a-developer/
 * Baby duck post mortem: http://web.mit.edu/agrebe/www/battlecode/21/index.html
 * wololo post mortem: 
+* Ivy Zheng post mortem: https://ivyzhang.me/bc21-postmortem
