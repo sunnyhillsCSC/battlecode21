@@ -1,7 +1,7 @@
 # battlecode21
 ## About this Repo
 * This is our workspace for preparing for the 2022 MIT Battlecode competition by developing a bot for the past 2021 competition. 
-* We develop and execute the bots in ```\src``` individually inside forked versions of the 2021 Battlecode Scaffold and update their code her in ```\src``` to share with each other. 
+* We develop and execute the bots in ```\src``` individually inside forked versions of the 2021 Battlecode Scaffold and update our code  in ```\src``` to share with each other. 
 ## Resources
 ### Installation and Getting Started
 * Installation: https://2021.battlecode.org/getting-started
